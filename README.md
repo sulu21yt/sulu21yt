@@ -4,13 +4,6 @@
 
 Interested in robotics, hardware communication, desktop applications, Minecraft modding and game development. I enjoy building practical tools and exploring how software interacts with hardware and complex systems.
 
-### 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulu21yt&show_icons=true&theme=github_dark&include_all_commits=true)
-
-
-> GitHub statistics may not include activity from private repositories unless the statistics service has access to them.
 
 ### 🛠️ Skills
 
